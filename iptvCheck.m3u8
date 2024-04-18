@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="",湖南经视高清
 http://116.128.243.121:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="2",湖南都市高清
-http://58.45.108.203:6666/udp/239.76.245.117:1234
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
 #EXTINF:-1 group-title="海南v6",湖南金鹰纪实
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
 #EXTINF:-1 group-title="海南v6",湖南卫视
